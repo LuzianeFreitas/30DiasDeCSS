@@ -18,3 +18,12 @@ Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issu
 </p>
 
 [Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%201)
+
+---
+
+<h3>2º Dia</h3>
+<p align="center">
+<img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600361166/loaderanimation_pjusoe.gif">
+</p>
+
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%202)
