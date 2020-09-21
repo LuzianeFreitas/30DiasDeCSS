@@ -27,3 +27,12 @@ Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issu
 </p>
 
 [Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%202)
+
+---
+
+<h3>3º Dia</h3>
+<p align="center">
+<img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600702837/mudancacordetexto_c9tjhs.gif">
+</p>
+
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%203)
