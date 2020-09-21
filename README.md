@@ -12,7 +12,7 @@ Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issu
 
 ---
 
-<h3>1º Dia</h3>
+<h3>1º Dia - Botões em camadas</h3>
 <p align="center">
 <img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600196297/day1_xjatpk.gif">
 </p>
@@ -21,7 +21,7 @@ Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issu
 
 ---
 
-<h3>2º Dia</h3>
+<h3>2º Dia - Loader animado</h3>
 <p align="center">
 <img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600361166/loaderanimation_pjusoe.gif">
 </p>
@@ -30,7 +30,7 @@ Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issu
 
 ---
 
-<h3>3º Dia</h3>
+<h3>3º Dia - Mudança da cor de texto ao mudar de div</h3>
 <p align="center">
 <img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600702837/mudancacordetexto_c9tjhs.gif">
 </p>
@@ -39,9 +39,9 @@ Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issu
 
 ---
 
-<h3>4º Dia</h3>
+<h3>4º Dia - Efeito hover</h3>
 <p align="center">
-<img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/video/upload/v1600705488/Efeito_hover_yia4sd.mp4">
+<img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600705794/efeitohover_numajg.gif">
 </p>
 
 [Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%204)
