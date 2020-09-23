@@ -1,6 +1,6 @@
 body {
     overflow: hidden;
-    background: #0D0D0D;
+    background: #2c2727;
     color: #F5C342;
 }
 
@@ -24,7 +24,6 @@ ul li {
     letter-spacing: 15px;
     animation: animate 1.4s linear infinite;
 }
-
 
 @keyframes animate {
     0% {
