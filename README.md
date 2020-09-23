@@ -83,7 +83,7 @@ Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issu
 
 <h3>6º Dia - Efeito lightning text</h3>
 <p align="center">
-<img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600878892/efeito-lightning-text_mo4wfm.gif">
+<img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600880278/efeito-lightning-text_flascn.gif">
 </p>
 
 [Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%206)
