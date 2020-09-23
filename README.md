@@ -94,8 +94,7 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 
 <h3>6º Dia - Efeito lightning text <a name="id06"></a></h3>
 <p align="center">
-<!-- <img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600880278/efeito-lightning-text_flascn.gif"> -->
-<a href="https://www.loom.com/share/5fdc8c6f770c4eaf9de9323becb32e33"> <p>Efeito lightning text - Watch Video</p> <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5fdc8c6f770c4eaf9de9323becb32e33-with-play.gif"> </a>
+ <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5fdc8c6f770c4eaf9de9323becb32e33-with-play.gif">
 </p>
 
 [Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%206)
