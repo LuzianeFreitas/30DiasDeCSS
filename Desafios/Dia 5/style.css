@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #0D1440;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.pulsar {
+    background: #1438A6;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    animation: pulsar 3s linear infinite;
+    color: #1455D9;
+}
+
+@keyframes pulsar {
+    0%
+    {
+        /* Multiplos shadows */
+        box-shadow: 0 0 0 0 #0E2773, 0 0 0 0 #0E2773;
+    }
+     40%
+    {
+        box-shadow: 0 0 0 50px #0D1440, 0 0 0 0 #0E2773;
+    }
+    80%
+    {
+        box-shadow: 0 0 0 50px #0D1440, 0 0 0 30px #0D1440;
+    }
+    100%
+    {
+        box-shadow: 0 0 0 0 #0D1440, 0 0 0 30px #0D1440;
+    }
+}
