@@ -2,17 +2,28 @@
 
 <p align="center"> Desafio aceito para criar 30 mini projetos utilizando HTML e CSS em 30 dias para desenvolver minhas habilidades nessas tecnologias. </p></br>
 
-<h2> Regras gerais </h2>
+<h2>📜 Regras gerais </h2>
 
 - Realizar 30 mini projetos;
 - Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS;
 - O projeto deve ser concluído até 23:59.
 
-Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) e participe também!
+Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) e participe também!
 
 ---
 
-<h3>1º Dia - Botões em camadas</h3>
+<h2>🔍 Sumário </h2>
+
+- [1º Dia - Botões em camadas](#id01)
+- [2º Dia - Loader animado](#id02)
+- [3º Dia - Mudança da cor de texto ao mudar de div](#id03)
+- [4º Dia - Efeito hover](#id04)
+- [5º Dia - Efeito pulsar](#id05)
+- [6º Dia - Efeito lightning text](#id06)
+
+---
+
+<h3>1º Dia - Botões em camadas <a name="id01"></a></h3>
 <p align="center">
 <img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600196297/day1_xjatpk.gif">
 </p>
@@ -28,7 +39,7 @@ Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issu
 
 ---
 
-<h3>2º Dia - Loader animado</h3>
+<h3>2º Dia - Loader animado <a name="id02"></a></h3>
 <p align="center">
 <img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600361166/loaderanimation_pjusoe.gif">
 </p>
@@ -41,7 +52,7 @@ Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issu
 
 ---
 
-<h3>3º Dia - Mudança da cor de texto ao mudar de div</h3>
+<h3>3º Dia - Mudança da cor de texto ao mudar de div <a name="id03"></a></h3>
 <p align="center">
 <img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600702837/mudancacordetexto_c9tjhs.gif">
 </p>
@@ -54,7 +65,7 @@ Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issu
 
 ---
 
-<h3>4º Dia - Efeito hover</h3>
+<h3>4º Dia - Efeito hover <a name="id04"></a></h3>
 <p align="center">
 <img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600705794/efeitohover_numajg.gif">
 </p>
@@ -68,7 +79,7 @@ Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issu
 
 ---
 
-<h3>5º Dia - Efeito pulsar</h3>
+<h3>5º Dia - Efeito pulsar <a name="id05"></a></h3>
 <p align="center">
 <img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600873069/efeitopulsar_vhemuc.gif">
 </p>
@@ -81,7 +92,7 @@ Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issu
 
 ---
 
-<h3>6º Dia - Efeito lightning text</h3>
+<h3>6º Dia - Efeito lightning text <a name="id06"></a></h3>
 <p align="center">
 <img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600880278/efeito-lightning-text_flascn.gif">
 </p>
