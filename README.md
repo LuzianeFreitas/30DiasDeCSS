@@ -19,6 +19,13 @@ Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issu
 
 [Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%201)
 
+<h4>Propriedades aprendidas:</h4>
+
+- Criar camadas utilizando ``` span ```
+- Aplicar ```::nth-child()```
+- Aplicar ```box-shadow```
+- Aplicar ```transform``` e ```opacity```
+
 ---
 
 <h3>2º Dia - Loader animado</h3>
@@ -27,6 +34,10 @@ Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issu
 </p>
 
 [Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%202)
+
+<h4>Propriedades aprendidas:</h4>
+
+- Aplicar ```animation```
 
 ---
 
@@ -37,6 +48,10 @@ Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issu
 
 [Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%203)
 
+<h4>Propriedades aprendidas:</h4>
+
+- Aplicar ```animation```
+
 ---
 
 <h3>4º Dia - Efeito hover</h3>
@@ -45,3 +60,22 @@ Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issu
 </p>
 
 [Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%204)
+
+<h4>Propriedades aprendidas:</h4>
+
+- Aplicar ```::after``` e ```::before```
+- Aplicar ```:hover::after``` e ```:hover::before```
+
+---
+
+<h3>5º Dia - Efeito pulsar</h3>
+<p align="center">
+<img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600873069/efeitopulsar_vhemuc.gif">
+</p>
+
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%205)
+
+<h4>Propriedades aprendidas:</h4>
+
+- Aplicar ```animation``` para criar multiplos shadows
+
