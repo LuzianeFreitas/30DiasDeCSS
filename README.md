@@ -79,3 +79,17 @@ Gostou da ideia? [Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issu
 
 - Aplicar ```animation``` para criar multiplos shadows
 
+---
+
+<h3>6º Dia - Efeito lightning text</h3>
+<p align="center">
+<img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600873069/efeitopulsar_vhemuc.gif">
+</p>
+
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%206)
+
+<h4>Propriedades aprendidas:</h4>
+
+- Utilizar o ```li``` para criar a animação
+- Aplicar o ```li:nth-child()``` para usar o efeito ```animation-delay``` 
+- Aplicar ```text-shadow```
