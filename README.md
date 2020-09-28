@@ -20,6 +20,7 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 - [4º Dia - Efeito hover](#id04)
 - [5º Dia - Efeito pulsar](#id05)
 - [6º Dia - Efeito lightning text](#id06)
+- [7º Dia - Efeito pré loader TikTok](#id07)
 
 ---
 
@@ -104,3 +105,17 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 - Utilizar o ```li``` para criar a animação
 - Aplicar o ```li:nth-child()``` para usar o efeito ```animation-delay``` 
 - Aplicar ```text-shadow```
+
+---
+
+<h3>7º Dia - Efeito pré loader TikTok <a name="id07"></a></h3>
+<p align="center">
+  <img alt="App Demo" src="https://j.gifs.com/3QAwnx.gif">
+</p>
+
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%207)
+
+<h4>Propriedades aprendidas:</h4>
+
+- Aplicar o ```animation```
+- Usar a propriedade ```mix-blend-mode```
