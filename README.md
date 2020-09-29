@@ -21,6 +21,7 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 - [5º Dia - Efeito pulsar](#id05)
 - [6º Dia - Efeito lightning text](#id06)
 - [7º Dia - Efeito pré loader TikTok](#id07)
+- [8º Dia - Efeito pulsar com coração](#id08)
 
 ---
 
@@ -119,3 +120,16 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 
 - Aplicar o ```animation```
 - Usar a propriedade ```mix-blend-mode```
+
+---
+
+<h3>8º Dia - Efeito pulsar com coração <a name="id08"></a></h3>
+<p align="center">
+  <img alt="App Demo" src="https://j.gifs.com/XLJYKl.gif">
+</p>
+
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%208)
+
+---
+
+
