@@ -1,0 +1,76 @@
+body {
+    background-color:#0D0D0D;
+}
+
+.container {
+    position:absolute; 
+    width: 220px;
+    height: 180px;
+    background-color: #0D0D0D;
+    top:50%;
+    left:  50%;
+    transform: translate(-50%, -50%);
+    border-radius: 5%;
+    border-top: 15px solid #262626;
+    border-left: 2px solid #262626;
+    border-right: 2px solid #262626;
+    border-bottom: 5px solid #262626;
+    display: flex;
+    justify-content: center;
+    
+}
+.pendulum{
+    display: flex;
+    padding: 120px 0 0 10px;
+    position: absolute;
+    flex: 1;
+}
+.ball{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 1px solid #BFBDBF;
+    background-color: #8C888C;
+    position: relative;
+    transform-origin: 50% -300%;
+
+}
+.ball::before{
+    content: '';
+    width: 2px;
+    height: 120px;
+    background-color:#BFBDBF;
+    left: 18px;
+    top: -120px;
+    position: absolute;
+}
+
+.ball.first{
+    animation: firstball .9s alternate ease-in infinite;
+}
+
+@keyframes firstball{
+    0%{
+        transform: rotate(35deg);
+        background-color: #BFBDBF;
+    }
+    50%{
+        transform: rotate(0deg);
+        
+    }
+}
+
+.ball.last{
+    animation: lastball .9s alternate ease-out infinite;
+}
+
+@keyframes lastball{
+    50%{
+        transform: rotate(0deg);
+        /* background-color: white; */
+    }
+    100%{
+        transform: rotate(-35deg);
+        background-color: #BFBDBF;
+    }
+}
