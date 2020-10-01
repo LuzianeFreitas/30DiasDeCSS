@@ -22,6 +22,7 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 - [6º Dia - Efeito lightning text](#id06)
 - [7º Dia - Efeito pré loader TikTok](#id07)
 - [8º Dia - Efeito pulsar com coração](#id08)
+- [9º Dia - Pendulo de Newton](#id09)
 
 ---
 
@@ -129,6 +130,15 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 </p>
 
 [Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%208)
+
+---
+
+<h3>9º Dia - Pendulo de Newton <a name="id09"></a></h3>
+<p align="center">
+  <img alt="App Demo" src="https://j.gifs.com/jZ3Jkv.gif">
+</p>
+
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%209)
 
 ---
 
