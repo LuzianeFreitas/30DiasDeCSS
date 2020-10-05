@@ -1,0 +1,32 @@
+body {
+    background-color: #F25CA2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden; 
+}
+
+
+h1 {
+    font-size: 100px;
+    color: #021859;
+    font-family: 'Press Start 2P', cursive;
+}
+
+span::before {
+    content: '';
+    animation: alternado 3.5s infinite;
+}
+
+@keyframes alternado {
+    0% {
+        content: '💻';
+    }
+    50% {
+        content: '🍨';
+    }
+    100% {
+        content: '🐶';
+    }
+}
