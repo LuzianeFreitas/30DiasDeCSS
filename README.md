@@ -23,6 +23,7 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 - [7º Dia - Efeito pré loader TikTok](#id07)
 - [8º Dia - Efeito pulsar com coração](#id08)
 - [9º Dia - Pendulo de Newton](#id09)
+- [10º Dia - Textos alternados](#id10)
 
 ---
 
@@ -142,4 +143,14 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 
 ---
 
+<h3>10º Dia - Textos alternados <a name="id10"></a></h3>
+<p align="center">
+  <img alt="App Demo" src="https://j.gifs.com/mO39Vn.gif">
+</p>
 
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2010)
+
+<h4>Propriedades aprendidas:</h4>
+
+- Utilizar a propriedade ```content``` para mostrar os desenhos;
+- Aplicar o @Keyframes para mudança de contents;
