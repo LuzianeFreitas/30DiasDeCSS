@@ -24,6 +24,7 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 - [8º Dia - Efeito pulsar com coração](#id08)
 - [9º Dia - Pendulo de Newton](#id09)
 - [10º Dia - Textos alternados](#id10)
+- [11º Dia - Botão efeito hover animado](#id11)
 
 ---
 
@@ -154,3 +155,19 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 
 - Utilizar a propriedade ```content``` para mostrar os desenhos;
 - Aplicar o @Keyframes para mudança de contents;
+
+---
+
+<h3>11º Dia - Botão efeito hover animado <a name="id11"></a></h3>
+<p align="center">
+  <img alt="App Demo" src="https://j.gifs.com/81Jno2.gif">
+</p>
+
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2011)
+
+<h4>Propriedades aprendidas:</h4>
+
+- Utilizar a propriedades ```-webkit-transition``` e ```-webkit-transform``` para dar o efeito animado;
+- Aplicar a propriedade ```::after``` e ```:focus```;
+
+---
