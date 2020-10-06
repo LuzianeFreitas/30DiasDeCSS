@@ -33,7 +33,9 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 <img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600196297/day1_xjatpk.gif">
 </p>
 
-[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%201)
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%201) </br>
+[Postagem LinkeIn](https://www.linkedin.com/posts/freitasluziane_30diasdecss-css-html-activity-6712115536014262272-WBmI)</br>
+[Postagem Twitter](https://twitter.com/FreiLuziane/status/1313560508289683458?s=20)
 
 <h4>Propriedades aprendidas:</h4>
 
@@ -49,7 +51,9 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 <img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600361166/loaderanimation_pjusoe.gif">
 </p>
 
-[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%202)
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%202) </br>
+[Postagem LinkedIn](https://www.linkedin.com/posts/freitasluziane_30diasdecss-css-html-activity-6712407989959102464-vVfr)</br>
+[Postagem Twitter]() Sem postagem ainda
 
 <h4>Propriedades aprendidas:</h4>
 
@@ -62,7 +66,9 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 <img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600702837/mudancacordetexto_c9tjhs.gif">
 </p>
 
-[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%203)
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%203) </br>
+[Postagem LinkedIn](https://www.linkedin.com/posts/freitasluziane_30diasdecss-devgirl-developer-activity-6713853889684348928-W55G)</br>
+[Postagem Twitter]() Sem postagem ainda
 
 <h4>Propriedades aprendidas:</h4>
 
@@ -75,7 +81,9 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 <img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600705794/efeitohover_numajg.gif">
 </p>
 
-[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%204)
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%204) </br>
+[Postagem LinkedIn](https://www.linkedin.com/posts/freitasluziane_30diasdecss-devgirl-developer-activity-6713853889684348928-W55G)</br>
+[Postagem Twitter]() Sem postagem ainda
 
 <h4>Propriedades aprendidas:</h4>
 
@@ -89,7 +97,9 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 <img alt="App Demo" src="https://res.cloudinary.com/dl8ykwsem/image/upload/v1600873069/efeitopulsar_vhemuc.gif">
 </p>
 
-[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%205)
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%205)</br>
+[Postagem LinkedIn](https://www.linkedin.com/posts/freitasluziane_30diasdecss-frontend-webdevelopment-activity-6714580640873926657-XeP_)</br>
+[Postagem Twitter]() Sem postagem ainda
 
 <h4>Propriedades aprendidas:</h4>
 
@@ -102,7 +112,9 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
  <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5fdc8c6f770c4eaf9de9323becb32e33-with-play.gif">
 </p>
 
-[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%206)
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%206)</br>
+[Postagem LinkedIn](https://www.linkedin.com/posts/freitasluziane_30diasdecss-activity-6714652096441987072-11IW)</br>
+[Postagem Twitter]() Sem postagem ainda
 
 <h4>Propriedades aprendidas:</h4>
 
@@ -117,7 +129,9 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
   <img alt="App Demo" src="https://j.gifs.com/3QAwnx.gif">
 </p>
 
-[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%207)
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%207)</br>
+[Postagem LinkedIn](https://www.linkedin.com/posts/freitasluziane_30diasdecss-css-html-activity-6716414856750280704-TtK3)</br>
+[Postagem Twitter]() Sem postagem ainda
 
 <h4>Propriedades aprendidas:</h4>
 
@@ -131,7 +145,9 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
   <img alt="App Demo" src="https://j.gifs.com/XLJYKl.gif">
 </p>
 
-[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%208)
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%208)</br>
+[Postagem LinkedIn](https://www.linkedin.com/posts/freitasluziane_30diasdecss-activity-6717523512984170496-zIlq)</br>
+[Postagem Twitter]() Sem postagem ainda
 
 ---
 
@@ -140,7 +156,9 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
   <img alt="App Demo" src="https://j.gifs.com/jZ3Jkv.gif">
 </p>
 
-[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%209)
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%209)</br>
+[Postagem LinkedIn](https://www.linkedin.com/posts/freitasluziane_30diasdecss-activity-6717523996067315712-zEu0)</br>
+[Postagem Twitter]() Sem postagem ainda
 
 ---
 
@@ -149,7 +167,9 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
   <img alt="App Demo" src="https://j.gifs.com/mO39Vn.gif">
 </p>
 
-[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2010)
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2010)</br>
+[Postagem LinkedIn](https://www.linkedin.com/posts/freitasluziane_30diasdecss-activity-6719055023227105280-FTSC)</br>
+[Postagem Twitter]() Sem postagem ainda
 
 <h4>Propriedades aprendidas:</h4>
 
@@ -163,7 +183,9 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
   <img alt="App Demo" src="https://j.gifs.com/81Jno2.gif">
 </p>
 
-[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2011)
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2011)</br>
+[Postagem LinkedIn](https://www.linkedin.com/posts/freitasluziane_30diasdecss-activity-6719322268230565888-2wwe)</br>
+[Postagem Twitter]() Sem postagem ainda
 
 <h4>Propriedades aprendidas:</h4>
 
