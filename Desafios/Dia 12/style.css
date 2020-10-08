@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    /* background-color: #5C73F2; */
+}
+
+h1 {
+    font-size: 120px;
+    color: #230A59;
+    position: relative;
+}
+
+h1::before {
+    content: "#Desafio30diasdeCSS";
+    position: absolute;
+    top: 0%;
+    left: 0%;
+    color: #3E38F2;
+    width: 0%;
+    overflow: hidden;
+    transition: all 0.7s; 
+}
+
+h1:hover::before {
+    width: 100%;
+    cursor: pointer;
+} 
