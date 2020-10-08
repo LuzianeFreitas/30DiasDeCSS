@@ -53,7 +53,7 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 
 [Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%202) </br>
 [Postagem LinkedIn](https://www.linkedin.com/posts/freitasluziane_30diasdecss-css-html-activity-6712407989959102464-vVfr)</br>
-[Postagem Twitter]() Sem postagem ainda
+[Postagem Twitter](https://twitter.com/FreiLuziane/status/1314008110432952322?s=20)
 
 <h4>Propriedades aprendidas:</h4>
 
