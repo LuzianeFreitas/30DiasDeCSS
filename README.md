@@ -25,6 +25,7 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 - [9º Dia - Pendulo de Newton](#id09)
 - [10º Dia - Textos alternados](#id10)
 - [11º Dia - Botão efeito hover animado](#id11)
+- [12º Dia - Efeito de preenchimento do texto ao passar o mouse](#id12)
 
 ---
 
@@ -193,3 +194,16 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 - Aplicar a propriedade ```::after``` e ```:focus```;
 
 ---
+
+<h3>12º Dia - Efeito de preenchimento do texto ao passar o mouse <a name="id12"></a></h3>
+<p align="center">
+  <img alt="App Demo" src="https://j.gifs.com/p83ALN.gif">
+</p>
+
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2012)</br>
+[Postagem LinkedIn]() Sem postagem ainda</br>
+[Postagem Twitter]() Sem postagem ainda
+
+---
+
+
