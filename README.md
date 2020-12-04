@@ -201,7 +201,7 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 </p>
 
 [Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2012)</br>
-[Postagem LinkedIn]() Sem postagem ainda</br>
+[Postagem LinkedIn](https://www.linkedin.com/posts/freitasluziane_30diasdecss-css-dev-activity-6740619800357203968-xZD7)</br>
 [Postagem Twitter]() Sem postagem ainda
 
 ---
