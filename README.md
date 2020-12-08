@@ -26,6 +26,7 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 - [10º Dia - Textos alternados](#id10)
 - [11º Dia - Botão efeito hover animado](#id11)
 - [12º Dia - Efeito de preenchimento do texto ao passar o mouse](#id12)
+- [13º Dia - Loading](#id13)
 
 ---
 
@@ -206,4 +207,12 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 
 ---
 
+<h3>13º Dia - Loading <a name="id13"></a></h3>
+<p align="center">
+  <img alt="App Demo" src="https://j.gifs.com/ROEj90.gif">
+</p>
+
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2013)</br>
+[Postagem LinkedIn]() Sem postagem ainda</br>
+[Postagem Twitter]() Sem postagem ainda
 
