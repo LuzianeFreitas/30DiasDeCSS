@@ -1,0 +1,25 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    overflow: hidden;
+    background: rgb(153,6,6);
+    background: linear-gradient(0deg, rgba(153,6,6,1) 36%, rgba(204,15,28,1) 100%);
+}
+
+h1 {
+    font-size: 140px;
+    text-align: center;
+    text-transform: uppercase;
+    background: url(fundo.jpg);
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: animacao-fundo 55s linear infinite;
+}
+
+@keyframes animacao-fundo {
+    from { background-position: 0 0;}
+    to {background-position: 100% 100%;}
+} 
