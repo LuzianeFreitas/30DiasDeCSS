@@ -27,6 +27,7 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 - [11º Dia - Botão efeito hover animado](#id11)
 - [12º Dia - Efeito de preenchimento do texto ao passar o mouse](#id12)
 - [13º Dia - Loading](#id13)
+- [14º Dia - Fundo de texto animado](#id14)
 
 ---
 
@@ -214,6 +215,17 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 
 [Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2013)</br>
 [Postagem LinkedIn](https://www.linkedin.com/posts/freitasluziane_30diasdecss-css-dev-activity-6742178523307421697-OJtK)</br>
+[Postagem Twitter]() Sem postagem ainda
+
+---
+
+<h3>14º Dia - Fundo de texto animado <a name="id14"></a></h3>
+<p align="center">
+  <img alt="App Demo" src="https://j.gifs.com/lxqEK1.gif">
+</p>
+
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2014)</br>
+[Postagem LinkedIn]() Sem postagem ainda</br>
 [Postagem Twitter]() Sem postagem ainda
 
 ---
