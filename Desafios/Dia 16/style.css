@@ -1,0 +1,39 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background: #222233;
+}
+
+a {
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 40px;
+    border: 3px solid white;
+    padding: 40px 80px;
+    position: relative;
+    transition: all 1s;
+    overflow: hidden; /*Importante para dar o efeito final no botão*/
+}
+
+a::before {
+    content: 'Dia 16';
+    color: rgb(39, 153, 39);
+    background-color: #eaf5ebf6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    transform: translateY(-100%);
+    transition: all .5s;
+}
+
+a:hover::before {
+    transform: translateY(0);
+}
