@@ -28,6 +28,7 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 - [12º Dia - Efeito de preenchimento do texto ao passar o mouse](#id12)
 - [13º Dia - Loading](#id13)
 - [14º Dia - Fundo de texto animado](#id14)
+- [15º Dia - Texto Flutuante](#id15)
 
 ---
 
@@ -226,6 +227,17 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 
 [Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2014)</br>
 [Postagem LinkedIn](https://www.linkedin.com/posts/freitasluziane_30diasdecss-css-dev-activity-6742410928731541505-rmzL)</br>
+[Postagem Twitter]() Sem postagem ainda
+
+---
+
+<h3>15º Dia - Texto Flutuante <a name="id15"></a></h3>
+<p align="center">
+  <img alt="App Demo" src="https://j.gifs.com/yoVOGw.gif">
+</p>
+
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2015)</br>
+[Postagem LinkedIn]()Sem Postagem ainda</br>
 [Postagem Twitter]() Sem postagem ainda
 
 ---
