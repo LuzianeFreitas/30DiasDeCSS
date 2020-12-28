@@ -30,6 +30,7 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 - [14º Dia - Fundo de texto animado](#id14)
 - [15º Dia - Texto Flutuante](#id15)
 - [16º Dia - Botao animado](#id16)
+- [17º Dia - Loading animado](#id17)
 
 ---
 
@@ -249,6 +250,17 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 </p>
 
 [Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2016)</br>
+[Postagem LinkedIn]()Sem Postagem ainda</br>
+[Postagem Twitter]() Sem postagem ainda
+
+---
+
+<h3>17º Dia - Loading animado <a name="id17"></a></h3>
+<p align="center">
+  <img alt="App Demo" src="https://j.gifs.com/ROQrNz.gif">
+</p>
+
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2017)</br>
 [Postagem LinkedIn]()Sem Postagem ainda</br>
 [Postagem Twitter]() Sem postagem ainda
 
