@@ -32,6 +32,7 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 - [16º Dia - Botao animado](#id16)
 - [17º Dia - Loading animado](#id17)
 - [18º Dia - Texto esfumaçado](#id18)
+- [19º Dia - Partículas animadas](#id19)
 
 ---
 
@@ -274,6 +275,17 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 </p>
 
 [Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2018)</br>
+[Postagem LinkedIn]()Sem Postagem ainda</br>
+[Postagem Twitter]() Sem postagem ainda
+
+---
+
+<h3>19º Dia - Partículas animadas <a name="id19"></a></h3>
+<p align="center">
+  <img alt="App Demo" src="https://j.gifs.com/ZY21V2.gif">
+</p>
+
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2019)</br>
 [Postagem LinkedIn]()Sem Postagem ainda</br>
 [Postagem Twitter]() Sem postagem ainda
 
