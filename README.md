@@ -34,6 +34,7 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 - [18º Dia - Texto esfumaçado](#id18)
 - [19º Dia - Partículas animadas](#id19)
 - [20º Dia - Botão animado](#id20)
+- [21º Dia - Loading estilizado](#id21)
 
 ---
 
@@ -298,6 +299,17 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 </p>
 
 [Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2020)</br>
+[Postagem LinkedIn]()Sem Postagem ainda</br>
+[Postagem Twitter]() Sem postagem ainda
+
+---
+
+<h3>21º Dia - Botão estilizado <a name="id21"></a></h3>
+<p align="center">
+  <img alt="App Demo" src="https://j.gifs.com/p84kvp.gif">
+</p>
+
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2021)</br>
 [Postagem LinkedIn]()Sem Postagem ainda</br>
 [Postagem Twitter]() Sem postagem ainda
 
