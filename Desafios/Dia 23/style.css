@@ -1,0 +1,39 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background-color: rgb(60, 153, 240);
+}
+
+button {
+    border: 0;
+    background: none;
+    font-family: sans-serif;
+    font-size: 2rem;
+    color: #fff;
+    border: 2px solid #fff;
+    padding: 40px 80px;
+
+    transition: all 0.3s;
+}
+
+button:hover {
+    border: 3px solid rgb(12, 54, 241);
+    color:  rgb(12, 54, 241);
+    animation: efeito 0.3s linear;
+    cursor: pointer;
+}
+
+@keyframes efeito {
+    20% {
+        transform: rotate(10deg);
+    }
+    60% {
+        transform: rotate(-10deg);
+    }
+    100% {
+        transform: rotate(10deg);
+    }
+}
