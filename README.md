@@ -37,6 +37,7 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 - [21º Dia - Loading estilizado](#id21)
 - [22º Dia - Ícones estilizados](#id22)
 - [23º Dia - Botão efeito hover](#id23)
+- [24º Dia - Pré-Loader animado](#id24)
 
 ---
 
@@ -334,6 +335,17 @@ Gostou da ideia ❤️? [Clique aqui](https://github.com/MilenaCarecho/30diasDeC
 </p>
 
 [Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2023)</br>
+[Postagem LinkedIn]()Sem Postagem ainda</br>
+[Postagem Twitter]() Sem postagem ainda
+
+---
+
+<h3>24º Dia - Pré-Loader animado <a name="id24"></a></h3>
+<p align="center">
+  <img alt="App Demo" src="https://j.gifs.com/zvr16Y.gif">
+</p>
+
+[Código](https://github.com/LuzianeFreitas/30DiasDeCSS/tree/master/Desafios/Dia%2024)</br>
 [Postagem LinkedIn]()Sem Postagem ainda</br>
 [Postagem Twitter]() Sem postagem ainda
 
